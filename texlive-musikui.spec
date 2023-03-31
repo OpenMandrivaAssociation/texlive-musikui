@@ -1,6 +1,6 @@
 Name:		texlive-musikui
 Version:	47472
-Release:	1
+Release:	2
 Summary:	Easy creation of "arithmetical restoration" puzzles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/musikui
