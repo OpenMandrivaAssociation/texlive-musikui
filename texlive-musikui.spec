@@ -3,7 +3,7 @@ Version:	47472
 Release:	2
 Summary:	Easy creation of "arithmetical restoration" puzzles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/musikui
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/musikui
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/musikui.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/musikui.doc.r%{version}.tar.xz
